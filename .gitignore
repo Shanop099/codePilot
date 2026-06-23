@@ -17,3 +17,9 @@ qdrant_data/
 
 .idea/
 .vscode/
+backend/repositories/
+backend/qdrant_data/
+reports/
+graph.html
+.env
+venv/
